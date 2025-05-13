@@ -1,0 +1,10 @@
+path: /content/data
+train: train/images
+val: validation/images
+nc: 5
+names:
+- Sau_Rieng
+- Tao
+- Thanh_Long
+- Kiwi
+- Xoai
