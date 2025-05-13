@@ -1,0 +1,5 @@
+Fresh/Rotten: 
+https://colab.research.google.com/drive/1jOgYpLSFoxdva-T2zuEBZLGHs3ynfJla?usp=sharing
+
+Traffic signs classification:
+https://colab.research.google.com/drive/1TzxPVUF_DYt86v6K4ineEBYEhZ9b5YXq?usp=sharing
